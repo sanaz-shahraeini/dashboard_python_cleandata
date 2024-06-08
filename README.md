@@ -1,7 +1,7 @@
 # 📊 Sales Dashboard
 
 This project is a Streamlit-based interactive dashboard for visualizing sales data. It allows users to upload a sales data file, perform exploratory data analysis (EDA), and visualize key metrics and trends using Plotly and DuckDB.
-
+## <img src="https://pydashboard.streamlit.app/" target="_blank">Live Demo </a>
 ## ✨ Features
 
 - **📂 Data Upload:** Upload an Excel file containing sales data.
